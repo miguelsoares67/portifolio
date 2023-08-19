@@ -1,7 +1,7 @@
 # Portfólio 
 Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
+![Projeto portfólio](https://github.com/miguelsoares67/portifolio/assets/129399921/47a7a5fb-cd8a-4aac-a7a2-f510ab758466)
 
 ## Ferramentas utilizadas:
 
